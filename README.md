@@ -24,8 +24,8 @@
 
 ![](https://pbs.twimg.com/media/A91w7_7CUAArtEq.jpg:large)
 
-* [GLSL 10PRINT Cam - C64 Colors][PixelShader01]
-* [GLSL 10PRINT Cam - Cam Colors][PixelShader02]
+* [GLSL 10PRINT Cam - Cam Colors][PixelShader01]
+* [GLSL 10PRINT Cam - C64 Colors][PixelShader02]
 
 
 ### Links
